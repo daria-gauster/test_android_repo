@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="roll_button">roll</string>
+    <string name="to_dice_activity">dice activity</string>
+</resources>
